@@ -1,0 +1,110 @@
+#logo{
+	margin-top:15.75px;
+	margin-left:30px;
+	height:73.5px;
+	 border: 0px;
+}
+
+#bandeau{
+	width:98%;
+	height:105px;
+	background:White;
+	position:relative;
+	border-radius: 0px 0px 0px 0px;
+-moz-border-radius: 0px 0px 0px 0px;
+-webkit-border-radius: 0px 0px 0px 0px;
+border: 13px inset #f01136;
+	
+	}
+	
+
+#bandeau #contact{
+	position:absolute;
+	bottom:0;
+	right:5px;
+	color:white;
+	text-decoration:underline;
+	font-size:25px;
+	font-family:Verdana;
+}
+#bandeau #contactinfo{
+	position:absolute;
+	bottom:0;
+	right:5px;
+	color:white;
+	text-decoration:underline;
+	font-size:25px;
+	font-family:Verdana;
+	margin-right: 90px;
+
+}
+
+#bandeau #contactdevenir{
+	position:absolute;
+	bottom:0;
+	right:5px;
+	color:white;
+	text-decoration:underline;
+	font-size:25px;
+	font-family:Verdana;
+	margin-right: 300px;
+}
+#bandeau #texte{
+	position:absolute;
+	bottom:30%;
+	right:40%;
+	color:#f01136;
+	/*text-decoration:underline;*/
+	font-size:40px;
+	font-family:Verdana;
+}
+
+
+
+
+#bandeauconnexion{
+	position:absolute;
+	width:46%;
+	height:400px;
+	margin-right:52%;
+	/*margin-bottom:10%;*/
+	background:  #ede5d5;
+	border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	border: 4px outset #ede5d5;
+
+}
+
+#bandeaucreecompte{
+	position: absolute;
+	width: 46%;
+	height:400px;
+	background:#ede5d5;
+	margin-left:52%;
+	/*margin-bottom: 10%;*/
+	border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	border: 4px outset #ede5d5;
+	box-shadow: 10px 10px 5px 0px rgba(240,239,237,1);
+}
+
+/*#connexion{
+	position:relative;
+	width:200px;
+	height:60px;
+	margin-left:10%;
+	margin-top:20%;
+	box-shadow:0px 0px 5px black;
+	background:green;
+}
+#connexion #contexte{
+	position: absolute;
+	color:blue;
+	align-items: center;	
+	font-size: 40px;
+	font-family: arial;
+	text-decoration:none;
+
+}*/
